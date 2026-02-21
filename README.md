@@ -88,11 +88,7 @@ Startup Sage transforms idea validation into strategic intelligence.
 
 ## 🚀 Deployment
 
-🔗 Frontend:  
 https://startup-sage-amber.vercel.app/
-
-🔗 Backend:  
-https://startup-sage.onrender.com/
 
 ---
 

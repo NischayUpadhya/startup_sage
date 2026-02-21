@@ -1,16 +1,166 @@
-# React + Vite
+# 🚀 Startup Sage  
+### 🏆 Hack The Vibe – AYA Community  
+### 👥 Team Name: TEAMDEV  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  🚀 Built at Hack The Vibe  
+  💡 Team: TEAMDEV  
+  ⚡ Project: Startup Sage  
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 The Problem
 
-## React Compiler
+Most founders build first… and validate later.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This leads to:
+- ❌ Wasted time  
+- ❌ Wasted money  
+- ❌ Entering saturated markets  
+- ❌ No clear differentiation  
 
-## Expanding the ESLint configuration
+Startups don’t fail because of poor coding.  
+They fail because of poor validation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💡 The Solution – Startup Sage
+
+**Startup Sage** is an AI-powered startup validation engine that analyzes your idea in seconds and provides:
+
+- 📊 Market Potential Score (0–100)
+- ⚠️ Risk Score
+- 🔎 Live GitHub Competition Intelligence
+- 🏆 Top Competitor Identification
+- 📈 Competition Level (Low / Medium / High)
+- ⭐ Ecosystem Strength (Total GitHub Stars)
+- 💡 Differentiation Advice
+- 📋 SWOT Insights
+- 💰 Revenue Strategy Suggestions
+
+Instead of guessing — founders make data-driven decisions.
+
+---
+
+## ⚙️ How It Works
+
+1️⃣ User enters startup idea  
+2️⃣ Backend performs live GitHub repository analysis  
+3️⃣ Calculates competition intensity  
+4️⃣ Detects top competitors  
+5️⃣ Measures ecosystem strength  
+6️⃣ Generates differentiation advice  
+7️⃣ Frontend visualizes animated score bars & competitor cards  
+
+Everything happens in seconds.
+
+---
+
+## 🧠 Why This Is Different
+
+Unlike traditional startup validators:
+
+- ✅ Uses real ecosystem data  
+- ✅ Live competitor discovery  
+- ✅ Quantifiable market saturation  
+- ✅ Actionable differentiation strategy  
+- ✅ Visual analytics dashboard  
+
+Startup Sage transforms idea validation into strategic intelligence.
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+- React (Vite)
+- Tailwind CSS
+- Framer Motion (Animated Score Bars)
+- Responsive Dashboard UI
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- GitHub Search API (Live Competitive Analysis)
+
+### 🚀 Deployment
+- Frontend: Vercel  
+  https://startup-sage.vercel.app  
+
+- Backend: Render  
+  https://startup-sage.onrender.com  
+
+---
+
+## 🌍 Live Demo
+
+🔗 Frontend:  
+https://startup-sage.vercel.app  
+
+🔗 Backend API:  
+https://startup-sage.onrender.com  
+
+---
+
+## 🎥 Demo Video – Hack The Vibe Submission
+
+We built Startup Sage during Hack The Vibe.  
+Watch the complete 2-minute walkthrough here:
+
+🔗 **Video Link:**  
+https://drive.google.com/file/d/10SxZNTkNhfJFGmd9OWUNFaLdASqbPGq3/view?usp=drive_link
+
+---
+
+## 👥 Team – TEAMDEV
+
+Startup Sage was built during Hack The Vibe by **TEAMDEV**.
+
+### 🔹 Nischay Upadhya P  
+- Backend Development  
+- GitHub API Integration  
+- Competition Intelligence Engine  
+- Market & Risk Scoring Logic  
+
+### 🔹 Kaushik Raju S  
+- Frontend Architecture  
+- UI/UX Design  
+- Animated Data Visualization  
+- Deployment & Optimization  
+
+Together, TEAMDEV built Startup Sage to help founders validate smarter, build strategically, and reduce startup failure risk.
+
+---
+
+## 🚀 Future Scope
+
+- 🔮 AI-generated detailed SWOT using LLMs  
+- 📈 Market trend analysis (Google Trends integration)  
+- 💰 Revenue model prediction engine  
+- 🎤 Auto pitch deck generator  
+- 🧩 Niche opportunity detection system  
+- 🦾 Investor readiness score  
+
+Startup Sage can evolve into a full startup intelligence platform.
+
+---
+
+## 🎤 Hack The Vibe Vision
+
+We believe:
+
+> The future of startups begins with intelligent validation.
+
+Startup Sage empowers builders to:
+- Think smarter  
+- Validate faster  
+- Build strategically  
+
+---
+
+## ⭐ If You Like This Project
+
+Give it a star.  
+Share it.  
+Build smarter.

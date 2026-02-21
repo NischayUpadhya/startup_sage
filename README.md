@@ -95,7 +95,7 @@ https://startup-sage-amber.vercel.app/
 ## 🎥 Demo Video – Hack The Vibe Submission
 
 We built Startup Sage during Hack The Vibe.  
-Watch the complete 2-minute walkthrough here:
+Watch the complete 4-minute walkthrough here:
 
 🔗 **Video Link:**  
 https://drive.google.com/file/d/10SxZNTkNhfJFGmd9OWUNFaLdASqbPGq3/view?usp=drive_link

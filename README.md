@@ -27,7 +27,7 @@ They fail because of poor validation.
 
 ## 💡 The Solution – Startup Sage
 
-**Startup Sage** is an AI-powered startup validation engine that analyzes your idea in seconds and provides:
+**Startup Sage** is a startup validation platform that analyzes your idea in seconds and provides:
 
 - 📊 Market Potential Score (0–100)
 - ⚠️ Risk Score
@@ -65,7 +65,7 @@ Unlike traditional startup validators:
 - ✅ Live competitor discovery  
 - ✅ Quantifiable market saturation  
 - ✅ Actionable differentiation strategy  
-- ✅ Visual analytics dashboard  
+- ✅ Interactive analytics dashboard  
 
 Startup Sage transforms idea validation into strategic intelligence.
 
@@ -84,22 +84,15 @@ Startup Sage transforms idea validation into strategic intelligence.
 - Express.js
 - GitHub Search API (Live Competitive Analysis)
 
-### 🚀 Deployment
-- Frontend: Vercel  
-  https://startup-sage.vercel.app  
-
-- Backend: Render  
-  https://startup-sage.onrender.com  
-
 ---
 
-## 🌍 Live Demo
+## 🚀 Deployment
 
 🔗 Frontend:  
-https://startup-sage.vercel.app  
+https://startup-sage-amber.vercel.app/
 
-🔗 Backend API:  
-https://startup-sage.onrender.com  
+🔗 Backend:  
+https://startup-sage.onrender.com/
 
 ---
 
@@ -135,7 +128,7 @@ Together, TEAMDEV built Startup Sage to help founders validate smarter, build st
 
 ## 🚀 Future Scope
 
-- 🔮 AI-generated detailed SWOT using LLMs  
+- 🔮 AI-generated detailed SWOT analysis  
 - 📈 Market trend analysis (Google Trends integration)  
 - 💰 Revenue model prediction engine  
 - 🎤 Auto pitch deck generator  
